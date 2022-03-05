@@ -12,7 +12,7 @@ import java.util.function.Supplier;
 
 public enum ModArmorMaterials implements ArmorMaterial {
 
-    INCIDIUM("incidium", 37, new int[]{3, 6, 8, 3}, 15, SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 3.0F, 0.2F, () -> {
+    INCIDIUM("incidium", 45, new int[]{3, 6, 8, 3}, 25, SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 5.0f, 0.2f, () -> {
         return Ingredient.ofItems(ModItems.RHODONITE_GEM);
     });
 
