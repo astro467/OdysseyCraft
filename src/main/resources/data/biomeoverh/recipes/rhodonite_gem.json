@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "rhodonite_shard:biomeoverh"
+    }
+  },
+  "result": {
+    "item": "rhodonite_gem:biomeoverh",
+    "count": 1
+  }
+}
