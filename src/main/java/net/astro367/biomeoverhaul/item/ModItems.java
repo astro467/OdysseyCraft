@@ -1,7 +1,6 @@
 package net.astro367.biomeoverhaul.item;
 
 import net.astro367.biomeoverhaul.BiomeOverhaul;
-import net.astro367.biomeoverhaul.item.custom.ModArmorMaterials;
 import net.astro367.biomeoverhaul.item.custom.ModAxeItem;
 import net.astro367.biomeoverhaul.item.custom.ModHoeItem;
 import net.astro367.biomeoverhaul.item.custom.ModPickaxeItem;
