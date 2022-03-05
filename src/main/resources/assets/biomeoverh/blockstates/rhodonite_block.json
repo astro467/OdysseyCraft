@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "biomeoverh:,block/rhodonite_block" }
+    "": { "model": "biomeoverh:block/rhodonite_block" }
   }
 }

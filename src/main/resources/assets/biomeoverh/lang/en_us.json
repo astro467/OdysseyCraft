@@ -1,7 +1,13 @@
 {
   "item.biomeoverh.rhodonite_gem": "Rhodonite Gem",
   "item.biomeoverh.rhodonite_shard": "Rhodonite Shard",
+  "block.biomeoverh.rhodonite_block": "Rhodonite Block",
 
 
-  "block.biomeoverh.rhodonite_block": "Rhodonite Block"
+  "item.biomeoverh.incidium_sword": "Incidium Sword",
+  "item.biomeoverh.incidium_axe": "Incidium Axe",
+  "item.biomeoverh.incidium_shovel": "Incidium Shovel",
+  "item.biomeoverh.incidium_hoe": "Hot Hoe",
+  "item.biomeoverh.incidium_pickaxe": "Incidium Pickaxe"
+
 }
