@@ -13,5 +13,11 @@
   "item.biomeoverh.incidium_helmet": "Incidium Helmet",
   "item.biomeoverh.incidium_chestplate": "Incidium Chestplate",
   "item.biomeoverh.incidium_leggings": "Incidium Leggings",
-  "item.biomeoverh.incidium_boots": "Big guy boots"
+  "item.biomeoverh.incidium_boots": "Big guy boots",
+
+  "block.biomeoverh.redwood_log": "Redwood Log",
+  "block.biomeoverh.redwood_planks": "Redwood Planks",
+  "block.biomeoverh.redwood_wood": "Redwood Wood",
+  "block.biomeoverh.stripped_redwood_log": "Stripped Redwood Log",
+  "block.biomeoverh.stripped_redwood_wood": "Stripped Redwood Wood"
 }
