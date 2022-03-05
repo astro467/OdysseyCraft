@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redwood_log:biomeoverh"
+    }
+  ],
+  "result": {
+    "item": "redwood_planks:biomeoverh",
+    "count": 4
+  }
+}
