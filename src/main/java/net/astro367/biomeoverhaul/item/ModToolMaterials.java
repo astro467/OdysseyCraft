@@ -10,7 +10,7 @@ import net.minecraft.util.Lazy;
 import java.util.function.Supplier;
 
 public enum ModToolMaterials implements ToolMaterial {
-    INCIDIUM(MiningLevels.NETHERITE, 3500, 14.0f, 6.0f, 25, () -> Ingredient.ofItems(ModItems.RHODONITE_GEM));
+    INCIDIUM(MiningLevels.NETHERITE, 3500, 14.0f, 5.0f, 25, () -> Ingredient.ofItems(ModItems.RHODONITE_GEM));
 
     private final int miningLevel;
     private final int itemDurability;
