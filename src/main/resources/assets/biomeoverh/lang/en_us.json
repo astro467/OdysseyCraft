@@ -8,6 +8,12 @@
   "item.biomeoverh.incidium_axe": "Incidium Axe",
   "item.biomeoverh.incidium_shovel": "Incidium Shovel",
   "item.biomeoverh.incidium_hoe": "Hot Hoe",
-  "item.biomeoverh.incidium_pickaxe": "Incidium Pickaxe"
+  "item.biomeoverh.incidium_pickaxe": "Incidium Pickaxe",
+
+  "item.biomeoverh.incidium_helmet": "Incidium Helmet",
+  "item.biomeoverh.incidium_chestplate": "Incidium ChestPlate",
+  "item.biomeoverh.incidium_leggings": "Incidium Leggings",
+  "item.biomeoverh.incidium_boots": "Big guy boots",
+
 
 }
