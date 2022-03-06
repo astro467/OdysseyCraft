@@ -23,5 +23,11 @@
   "block.biomeoverh.redwood_button": "Redwood Button",
   "block.biomeoverh.redwood_pressure_plate": "Redwood Pressure Plate",
   "block.biomeoverh.redwood_fence": "Redwood Fence",
-  "block.biomeoverh.redwood_fence_gate": "Redwood Fence Gate"
+  "block.biomeoverh.redwood_fence_gate": "Redwood Fence Gate",
+  "block.biomeoverh.redwood_slab": "Redwood Slab",
+  "block.biomeoverh.redwood_stairs": "Redwood Stairs",
+  "block.biomeoverh.redwood_door": "Redwood Door",
+  "block.biomeoverh.redwood_trapdoor": "Redwood Trapdoor",
+
+  "itemGroup.biomeoverh.biome": "Insert name here"
 }

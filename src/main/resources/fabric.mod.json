@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.astro367.biomeoverhaul.BiomeOverhaul"
+    ],
+    "client": [
+      "net.astro367.biomeoverhaul.BiomeClientMod"
     ]
   },
   "mixins": [

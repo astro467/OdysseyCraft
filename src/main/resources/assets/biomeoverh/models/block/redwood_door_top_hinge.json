@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_rh",
+  "textures": {
+    "top": "biomeoverh:block/redwood_door_top",
+    "bottom": "biomeoverh:block/redwood_door_bottom"
+  }
+}

@@ -1,8 +1,7 @@
 package net.astro367.biomeoverhaul.block;
 
 import net.astro367.biomeoverhaul.BiomeOverhaul;
-import net.astro367.biomeoverhaul.block.custom.ModPressurePlateBlock;
-import net.astro367.biomeoverhaul.block.custom.ModWoodenButtonBlock;
+import net.astro367.biomeoverhaul.block.custom.*;
 import net.astro367.biomeoverhaul.item.ModItemGroup;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
@@ -27,6 +26,10 @@ public class ModBlocks {
     public static final Block REDWOOD_PRESSURE_PLATE = registerBlock("redwood_pressure_plate", new ModPressurePlateBlock(PressurePlateBlock.ActivationRule.EVERYTHING, FabricBlockSettings.copy(Blocks.OAK_PRESSURE_PLATE)), ModItemGroup.BIOME);
     public static final Block REDWOOD_FENCE = registerBlock("redwood_fence", new FenceBlock(FabricBlockSettings.copy(Blocks.OAK_FENCE)), ModItemGroup.BIOME);
     public static final Block REDWOOD_FENCE_GATE = registerBlock("redwood_fence_gate", new FenceGateBlock(FabricBlockSettings.copy(Blocks.OAK_FENCE_GATE)), ModItemGroup.BIOME);
+    public static final Block REDWOOD_SLAB = registerBlock("redwood_slab", new SlabBlock(FabricBlockSettings.copy(Blocks.OAK_SLAB)), ModItemGroup.BIOME);
+    public static final Block REDWOOD_STAIRS = registerBlock("redwood_stairs", new ModStairsBlock(ModBlocks.REDWOOD_PLANKS.getDefaultState(), FabricBlockSettings.copy(Blocks.OAK_STAIRS)), ModItemGroup.BIOME);
+    public static final Block REDWOOD_DOOR = registerBlock("redwood_door", new ModDoorBlock(FabricBlockSettings.copy(Blocks.OAK_DOOR)), ModItemGroup.BIOME);
+    public static final Block REDWOOD_TRAPDOOR = registerBlock("redwood_trapdoor", new ModTrapdoorBlock(FabricBlockSettings.copy(Blocks.OAK_TRAPDOOR)), ModItemGroup.BIOME);
 
     private static Block registerBlock(String name, Block block, ItemGroup group) {registerBlockItem(name, block, group);return Registry.register(Registry.BLOCK, new Identifier(BiomeOverhaul.MOD_ID, name), block);}
     private static Item registerBlockItem(String name, Block block, ItemGroup group) {return Registry.register(Registry.ITEM, new Identifier(BiomeOverhaul.MOD_ID, name),new BlockItem(block, new FabricItemSettings().group(group)));}

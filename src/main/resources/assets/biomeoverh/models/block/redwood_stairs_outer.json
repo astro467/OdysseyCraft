@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "biomeoverh:block/redwood_planks",
+    "top": "biomeoverh:block/redwood_planks",
+    "side": "biomeoverh:block/redwood_planks"
+  }
+}
