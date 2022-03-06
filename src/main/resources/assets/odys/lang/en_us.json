@@ -1,0 +1,33 @@
+{
+  "item.odys.rhodonite_gem": "Rhodonite Gem",
+  "item.odys.rhodonite_shard": "Rhodonite Shard",
+  "block.odys.rhodonite_block": "Rhodonite Block",
+
+  "item.odys.incidium_sword": "Incidium Sword",
+  "item.odys.incidium_axe": "Incidium Axe",
+  "item.odys.incidium_shovel": "Incidium Shovel",
+  "item.odys.incidium_hoe": "Hot Hoe",
+  "item.odys.incidium_pickaxe": "Incidium Pickaxe",
+
+  "item.odys.incidium_helmet": "Incidium Helmet",
+  "item.odys.incidium_chestplate": "Incidium Chestplate",
+  "item.odys.incidium_leggings": "Incidium Leggings",
+  "item.odys.incidium_boots": "Big guy boots",
+
+  "block.odys.redwood_log": "Redwood Log",
+  "block.odys.redwood_planks": "Redwood Planks",
+  "block.odys.redwood_wood": "Redwood Wood",
+  "block.odys.stripped_redwood_log": "Stripped Redwood Log",
+  "block.odys.stripped_redwood_wood": "Stripped Redwood Wood",
+
+  "block.odys.redwood_button": "Redwood Button",
+  "block.odys.redwood_pressure_plate": "Redwood Pressure Plate",
+  "block.odys.redwood_fence": "Redwood Fence",
+  "block.odys.redwood_fence_gate": "Redwood Fence Gate",
+  "block.odys.redwood_slab": "Redwood Slab",
+  "block.odys.redwood_stairs": "Redwood Stairs",
+  "block.odys.redwood_door": "Redwood Door",
+  "block.odys.redwood_trapdoor": "Redwood Trapdoor",
+
+  "itemGroup.odys.biome": "Odyssey Craft"
+}

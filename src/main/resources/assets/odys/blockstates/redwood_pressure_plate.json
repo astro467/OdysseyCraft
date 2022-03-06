@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "odys:block/redwood_pressure_plate" },
+    "powered=true": { "model": "odys:block/redwood_pressure_plate_down" }
+  }
+}

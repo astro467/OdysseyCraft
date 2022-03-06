@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "odys:block/redwood_slab"
+    },
+    "type=double": {
+      "model": "odys:block/redwood_planks"
+    },
+    "type=top": {
+      "model": "odys:block/redwood_slab_top"
+    }
+  }
+}
