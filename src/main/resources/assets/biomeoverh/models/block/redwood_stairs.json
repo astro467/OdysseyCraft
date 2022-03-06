@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "biomeoverh:block/redwood_planks",
-    "top": "biomeoverh:block/redwood_planks",
-    "side": "biomeover:block/redwood_planks"
-  }
-}

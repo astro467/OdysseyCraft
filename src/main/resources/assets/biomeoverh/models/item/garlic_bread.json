@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "biomeoverh:item/garlic_bread"
-  }
-}

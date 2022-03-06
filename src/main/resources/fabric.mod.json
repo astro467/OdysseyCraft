@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "biomeoverh",
+  "id": "odys",
   "version": "${version}",
 
-  "name": "Biome Overhaul",
+  "name": "OdysseyCraft",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "astro367!"
+    "astro367, Cheesy"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -19,14 +19,14 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.astro367.biomeoverhaul.BiomeOverhaul"
+      "net.astro367.odysseycraft.OdysseyCraft"
     ],
     "client": [
-      "net.astro367.biomeoverhaul.BiomeClientMod"
+      "net.astro367.odysseycraft.OdysseyClientMod"
     ]
   },
   "mixins": [
-    "biomeoverh.mixins.json"
+    "odys.mixins.json"
   ],
 
   "depends": {
