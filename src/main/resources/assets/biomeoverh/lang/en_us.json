@@ -12,7 +12,7 @@
   "item.biomeoverh.incidium_helmet": "Incidium Helmet",
   "item.biomeoverh.incidium_chestplate": "Incidium Chestplate",
   "item.biomeoverh.incidium_leggings": "Incidium Leggings",
-  "item.biomeoverh.incidium_boots": "Big guy boots",
+  "item.biomeoverh.incidium_boots": "John Cena's socks",
 
   "block.biomeoverh.redwood_log": "Redwood Log",
   "block.biomeoverh.redwood_planks": "Redwood Planks",
@@ -28,6 +28,9 @@
   "block.biomeoverh.redwood_stairs": "Redwood Stairs",
   "block.biomeoverh.redwood_door": "Redwood Door",
   "block.biomeoverh.redwood_trapdoor": "Redwood Trapdoor",
+
+  "item.biomeoverh.garlic_bread": "Garlic Bread",
+
 
   "itemGroup.biomeoverh.biome": "Insert name here"
 }

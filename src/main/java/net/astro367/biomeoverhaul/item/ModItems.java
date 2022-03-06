@@ -15,7 +15,7 @@ public class ModItems {
     //items
     public static final Item RHODONITE_GEM = registerItem("rhodonite_gem", new Item(new FabricItemSettings().group(ModItemGroup.BIOME)));
     public static final Item RHODONITE_SHARD = registerItem("rhodonite_shard", new Item(new FabricItemSettings().group(ModItemGroup.BIOME)));
-
+    public static final Item GARLIC_BREAD = registerItem("garlic_bread", new Item(new FabricItemSettings().group(ModItemGroup.BIOME).food(ModfoodComponents.GARLIC_BREAD)));
     //tools
     public static final Item INCIDIUM_SWORD = registerItem("incidium_sword", new SwordItem(ModToolMaterials.INCIDIUM, 6, -2.4f, new FabricItemSettings().group(ModItemGroup.BIOME)));
     public static final Item INCIDIUM_AXE = registerItem("incidium_axe", new ModAxeItem(ModToolMaterials.INCIDIUM, 8, -3.0f, new FabricItemSettings().group(ModItemGroup.BIOME)));
