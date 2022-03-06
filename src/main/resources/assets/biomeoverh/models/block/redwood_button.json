@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "biomeoverh:block/redwood_planks"
+  }
+}

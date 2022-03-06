@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "biomeoverh:block/redwood_pressure_plate" },
+    "powered=true": { "model": "biomeoverh:block/redwood_pressure_plate_down" }
+  }
+}

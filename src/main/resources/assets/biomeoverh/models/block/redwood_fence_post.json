@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_post",
+  "textures": {
+    "texture": "biomeoverh:block/redwood_planks"
+  }
+}
