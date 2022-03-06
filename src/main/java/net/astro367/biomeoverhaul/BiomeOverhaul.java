@@ -2,6 +2,7 @@ package net.astro367.biomeoverhaul;
 
 import net.astro367.biomeoverhaul.block.ModBlocks;
 import net.astro367.biomeoverhaul.item.ModItems;
+import net.astro367.biomeoverhaul.painting.ModPaintings;
 import net.astro367.biomeoverhaul.registries.ModRegistries;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -16,6 +17,8 @@ public class BiomeOverhaul implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
+		ModPaintings.registerPaintings();
 
 		ModRegistries.registerStrippables();
 

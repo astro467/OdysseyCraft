@@ -8,6 +8,7 @@ import net.minecraft.util.registry.Registry;
 public class ModPaintings {
 
     public static final PaintingMotive THEO = registerPainting("theo", new PaintingMotive(32,32));
+    public static final PaintingMotive DAISYCAT = registerPainting("daisycat", new PaintingMotive(64,64));
 
     private  static PaintingMotive registerPainting(String name, PaintingMotive paintingMotive) {
         return Registry.register(Registry.PAINTING_MOTIVE, new Identifier(BiomeOverhaul.MOD_ID, name), paintingMotive );
