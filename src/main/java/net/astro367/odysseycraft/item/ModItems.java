@@ -12,7 +12,7 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItems {
 
-    //items
+    //items    public static final Item RHODONITE_SHARD = registerItem("rhodonite_shard", new Item(new FabricItemSettings().group(ModItemGroup.ODYSSEY)));
     public static final Item RHODONITE_GEM = registerItem("rhodonite_gem", new Item(new FabricItemSettings().group(ModItemGroup.ODYSSEY)));
     public static final Item RHODONITE_SHARD = registerItem("rhodonite_shard", new Item(new FabricItemSettings().group(ModItemGroup.ODYSSEY)));
 

@@ -30,6 +30,7 @@ public class ModBlocks {
     public static final Block REDWOOD_STAIRS = registerBlock("redwood_stairs", new ModStairsBlock(ModBlocks.REDWOOD_PLANKS.getDefaultState(), FabricBlockSettings.copy(Blocks.OAK_STAIRS)), ModItemGroup.ODYSSEY);
     public static final Block REDWOOD_DOOR = registerBlock("redwood_door", new ModDoorBlock(FabricBlockSettings.copy(Blocks.OAK_DOOR)), ModItemGroup.ODYSSEY);
     public static final Block REDWOOD_TRAPDOOR = registerBlock("redwood_trapdoor", new ModTrapdoorBlock(FabricBlockSettings.copy(Blocks.OAK_TRAPDOOR)), ModItemGroup.ODYSSEY);
+    public static final Block RHODONITE_ORE = registerBlock("rhodonite_ore", new Block(FabricBlockSettings.copy(Blocks.DIAMOND_ORE)), ModItemGroup.ODYSSEY);
 
     private static Block registerBlock(String name, Block block, ItemGroup group) {registerBlockItem(name, block, group);return Registry.register(Registry.BLOCK, new Identifier(OdysseyCraft.MOD_ID, name), block);}
     private static Item registerBlockItem(String name, Block block, ItemGroup group) {return Registry.register(Registry.ITEM, new Identifier(OdysseyCraft.MOD_ID, name),new BlockItem(block, new FabricItemSettings().group(group)));}
